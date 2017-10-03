@@ -1,5 +1,5 @@
 Hello World
-Lidt mere spændende kode
+Lidt mere spaendende kode!!!
 
 void GetHello(string world){
 print(world)
