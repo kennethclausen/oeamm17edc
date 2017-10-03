@@ -1,6 +1,7 @@
-Hello World
+Hello
 Lidt mere spaendende kode!!!
+Jeg kan ikke lide ting
 
-void GetHello(string universe){
-print(universe)
+void GetHlo(string world){
+print(world)
 }
