@@ -1,2 +1,6 @@
 Hello World
 Lidt mere spændende kode
+
+void GetHello(string world){
+print(world)
+}
