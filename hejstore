@@ -1,6 +1,6 @@
 Hello World
 Lidt mere spaendende kode!!!
 
-void GetHello(string world){
-print(world)
+void GetHello(string universe){
+print(universe)
 }
